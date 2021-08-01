@@ -4,6 +4,10 @@
   - About me and this workshop
   - Why learn python?
   - Pros and cons
+- Running a python code (_10 mins_)
+  - Python file (_2.5 mins_)
+  - Python interpreter (_2.5 mins_)
+  - Jupyter notebooks (local/hosted(colab)) (_5 mins_)
 - Python syntax (_25 mins_)
   - About python (_10 mins_)
     - interpreted language + runtime evaluation(_5 mins_)
@@ -11,10 +15,6 @@
   - variables (_5 mins_)
   - functions and imports (_5 mins_)
   - `help()` (_5 mins_)
-- Running a python code (_10 mins_)
-  - Python file (_2.5 mins_)
-  - Python interpreter (_2.5 mins_)
-  - Jupyter notebooks (local/hosted(colab)) (_5 mins_)
 
 > Exercises for variables, functions, imports and basic logic via colab notebooks (_30 mins_)
 
@@ -40,5 +40,5 @@
 
 ## References
 
-- [google python basics](https://developers.google.com/edu/python)
+- [google's python basics](https://developers.google.com/edu/python)
 - myself
