@@ -19,14 +19,14 @@
 > Exercises for variables, functions, imports and basic logic via colab notebooks (_30 mins_)
 
 - Python (and programming) basics [presented via colab notebooks with exercises as you go] (_60 mins_)
+  - Control flow (_20 mins_)
+    - conditions with `if` (_10 mins_)
+    - repititions with `for` and `while` (_10 mins_)
   - Frequently used data structures (_40 mins_)
     - strings (_10 mins_)
     - lists (_10 mins_)
     - dicts (_10 mins_)
     - file manipulation (_10 mins_)
-  - Control flow (_20 mins_)
-    - conditions with `if` (_10 mins_)
-    - repititions with `for` and `while` (_10 mins_)
 
 > Exercises for strings, lists, dicts, and file manipulation. mixed with previous content.
 
